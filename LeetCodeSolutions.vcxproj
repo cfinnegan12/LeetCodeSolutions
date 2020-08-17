@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="ArrangingCoins.cpp" />
     <ClCompile Include="BinaryTreeLevelOrderTraversal2.cpp" />
+    <ClCompile Include="DesignHashSet.cpp" />
     <ClCompile Include="DetectCapital.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
